@@ -1,24 +1,12 @@
-## Hi there. I'm Karthi 👋
-<div align="center">
-    <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+[Your Name];This+is..;..my+Github..;" alt="Typing SVG"/>
-    </h1>
-    <p>I like ones and zeros :blush:</p>
-    <p>I also like to tinker stuff. I also like to know how stuff work.</p>
-</div>
-
-
-
-
-
-
-WELCOME to my profile
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h2>WELCOME, fellow human</h2>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
+<p>I discovered my love for computers after reading <b>Charles Petzold's C.O.D.E :notebook_with_decorative_cover:</b></p>
+<p>Something about it made me want to know almost everything about the world of computing and now deep in this rabbit hole.</p>
+<hr />
+<p>I also happen to have a parallel life where I map stuff, digitally.</p>
+<p>I blame <b>Ptolemy, Gerardus Mercator, Waldo Tobler</b> for hooking me to this one.</p>
+<hr />
+<p>If you wanna connect, send me an email 😃</p>
+<a href="mailto:karthikeyan14june@gmail.com">
+  <img src="https://img.shields.io/badge/SEND%20MAIL-7cebf5?&style=for-the-badge&logo=MAIL.RU&logoColor=black">
+</a>
